@@ -1,0 +1,29 @@
+#cabecalho{
+    width:auto;
+    height:80px;
+    background-color: #3D7883;
+    line-height: 80px; /*centraliza o texto*/
+    text-align:center;
+    color:#ffffff;
+    font-family: 'Roboto';
+    font-family: 'Trade Winds';
+    
+}
+#corpo{
+    display: flex;/*comportamento do eletemnto*/
+    height: auto;
+}
+#menu{
+    width: 20%;
+    background-color: #ADF3FF;
+}
+#conteudo{
+width: 80%;
+padding:20px;/*espacamento do conteudo do obejtos*/
+}
+#rodape{
+    width: auto;
+    height: auto;
+    padding: 20px;
+    background-color: #867734;
+}
